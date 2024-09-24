@@ -23,7 +23,7 @@ development skills.** - 📫 How to reach me **bidkarojas@gmail.com**
   <a href="https://linkedin.com/in/ojas bidkar" target="blank"
     ><img
       align="center"
-      src="https://www.linkedin.com/in/ojas-bidkar-17ba8927b/"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ojas bidkar"
       height="30"
       width="40"
